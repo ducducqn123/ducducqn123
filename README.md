@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src='https://activity-graph.herokuapp.com/graph?username=ducducqn123&bg_color=1A1B27&color=71A4FC&line=3ABCAD&point=BE91F2&area=true'>
+      <img src='https://activity-graph.herokuapp.com/graph?username=ducducqn123&bg_color=141321&color=a9fef7&line=3ABCAD&point=BE91F2&area=true'>
     </td>
   </tr>
 </table>

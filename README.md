@@ -5,7 +5,7 @@
 
 ### 📫 Contact me via:
    - 📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/ziduckziduck/): [Võ Phạm Duy Đức](https://www.facebook.com/ziduckziduck/).
-   - 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:mailto:19521383@gm.uit.edu.vn): [19521383@gm.uit.edu.vn](mailto:19521383@gm.uit.edu.vn).
+   - 📫 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:19521383@gm.uit.edu.vn): [19521383@gm.uit.edu.vn](mailto:19521383@gm.uit.edu.vn).
 
 ### :zap: GitHub Stats
 <table>

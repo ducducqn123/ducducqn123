@@ -14,7 +14,7 @@
       <img src='https://github-readme-stats.vercel.app/api?username=ducducqn123&show_icons=true&theme=radical&hide=issues'>
     </td>
     <td>
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ducducqn123&layout=compact&hide=jupyter%20notebook&html&title_color=71A4FC&text_color=fe428e&bg_color=141321'>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ducducqn123&layout=compact&hide=jupyter%20notebook&html&title_color=fe428e&text_color=a9fef7&bg_color=141321'>    
     </td>
   </tr>
   <tr>

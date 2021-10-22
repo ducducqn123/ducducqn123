@@ -1,7 +1,7 @@
-### 🎾 Hi, My name is Vo Pham Duy Duc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm a student in Computer Science major.
-  - 🎾 I have experiences with ```C++``` ```Python``` ```Javascript```.
-  - 🎾 I’m currently learning Computer Science at [University of Information Technology (UIT) - Vietnam National University](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).
-  - 🎾 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Machine learning```.
+### 🏸 Hi, My name is Vo Pham Duy Duc <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm a student in Computer Science major.
+  - 🏸 I have experiences with ```C++``` ```Python``` ```Javascript```.
+  - 🏸 I’m currently learning Computer Science at [University of Information Technology (UIT) - Vietnam National University](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology).
+  - 🏸 I have basic knowledge in ```Web Development``` `Object-Oriented Programming` ```Machine learning```.
 
 ### 📫 Contact me via:
    - 📫 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/ziduckziduck/): [Võ Phạm Duy Đức](https://www.facebook.com/ziduckziduck/).

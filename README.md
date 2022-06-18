@@ -11,15 +11,15 @@
 <table>
   <tr>
     <td>
-      <img src='https://github-readme-stats.vercel.app/api?username=ducducqn123&show_icons=true&theme=radical&hide=issues'>
+      <img src='https://github-readme-stats.vercel.app/api?username=ZiDuck&show_icons=true&theme=radical&hide=issues'>
     </td>
     <td>
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ducducqn123&layout=compact&hide=jupyter%20notebook&html&title_color=fe428e&text_color=a9fef7&bg_color=141321'>    
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ZiDuck&layout=compact&hide=jupyter%20notebook&html&title_color=fe428e&text_color=a9fef7&bg_color=141321'>    
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src='https://activity-graph.herokuapp.com/graph?username=ducducqn123&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true'>
+      <img src='https://activity-graph.herokuapp.com/graph?username=ZiDuck&bg_color=141321&color=fe428e&line=a9fef7&point=f8d847&area=true'>
     </td>
   </tr>
 </table>

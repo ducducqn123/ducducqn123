@@ -23,3 +23,5 @@
     </td>
   </tr>
 </table>
+
+![Snake animation](https://github.com/ZiDuck/ZiDuck/blob/output/github-contribution-grid-snake.svg)

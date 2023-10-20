@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NestJS, ASP.NET Core,**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZiDuck?tab=repositories](https://github.com/ZiDuck?tab=repositories)
+- 👨‍💻 All of my projects are available at [github repositories](https://github.com/ZiDuck?tab=repositories)
 
 - 💬 Ask me about **NestJS, Node & ExpressJS**
 

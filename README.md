@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [github repositories](https://github.com/ZiDuck?tab=repositories)
 
-- 💬 Ask me about **NestJS, Node & ExpressJS**
+- 💬 Ask me about **NestJS, Node & ExpressJS, ASP.NET Core**
 
-- 📫 How to reach me **ducducqn123.dev@gmail.com**
+- 📫 How to reach me **vophamduyduc.dev@gmail.com**
 
 - 📄 Know about my experiences [...](...)
 
